@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# github-final-project
 
 A simple command-line tool written in Python that calculates simple interest.
 
